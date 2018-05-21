@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<odoo>-
+<odoo>
 
 
 
@@ -16,8 +16,13 @@
                         
                         <field name="name" />
                         <field name="apell" />
+                        <field name="ced" />
+                        <field name="corr" />
+                        <field name="tlf" />
+                        <field name="sex" />
+                        <field name="semes" />
                         <field name="carr" />
-                        <field name="name" />
+                        <field name="suge" />
                         
                     </group>
                         
