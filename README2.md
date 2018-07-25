@@ -11,14 +11,4 @@ Se pueden mezclar distintos tipos de listas y anidar unas dentro de otras.
         * Lista desordenada anidada a tercer nivel
         * Segundo elemento de esta lista
     2. Este es el segundo elemento de la lista ordenada anidada
-    
-    
-Se pueden mezclar distintos tipos de listas y anidar unas dentro de otras.
-
-1. Esto es una lista ordenada
-2. Segundo elemento de la lista ordenada
-    1. Esta es una lista ordenada anidada dentro de otra
-        * Lista desordenada anidada a tercer nivel
-        * Segundo elemento de esta lista
-    2. Este es el segundo elemento de la lista ordenada anidada
 
